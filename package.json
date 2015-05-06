@@ -35,7 +35,7 @@
     "grunt-contrib-clean": "~0.5.0",
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-contrib-watch": "~0.6.1",
-    "grunt-jscs-checker": "~0.4.1",
+    "grunt-jscs": "~0.6.0",
     "grunt-mocha-cli": "~1.8.0"
   },
   "keywords": [
